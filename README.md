@@ -1,0 +1,2 @@
+# Optimization
+nuxt Optimization
